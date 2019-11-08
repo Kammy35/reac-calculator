@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reac-calculator/static/css/main.3df2fc1f.chunk.css",
+    "main.js": "/reac-calculator/static/js/main.2209d5fd.chunk.js",
+    "main.js.map": "/reac-calculator/static/js/main.2209d5fd.chunk.js.map",
+    "runtime-main.js": "/reac-calculator/static/js/runtime-main.c53a7fb5.js",
+    "runtime-main.js.map": "/reac-calculator/static/js/runtime-main.c53a7fb5.js.map",
+    "static/js/2.3381394a.chunk.js": "/reac-calculator/static/js/2.3381394a.chunk.js",
+    "static/js/2.3381394a.chunk.js.map": "/reac-calculator/static/js/2.3381394a.chunk.js.map",
+    "index.html": "/reac-calculator/index.html",
+    "precache-manifest.830ad36509e7e13ea940af1aafcd34af.js": "/reac-calculator/precache-manifest.830ad36509e7e13ea940af1aafcd34af.js",
+    "service-worker.js": "/reac-calculator/service-worker.js",
+    "static/css/main.3df2fc1f.chunk.css.map": "/reac-calculator/static/css/main.3df2fc1f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53a7fb5.js",
+    "static/js/2.3381394a.chunk.js",
+    "static/css/main.3df2fc1f.chunk.css",
+    "static/js/main.2209d5fd.chunk.js"
+  ]
+}
